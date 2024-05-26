@@ -20,7 +20,7 @@ export default function ContactUs() {
                                                 </svg>
                                             </div>
                                             <div className="title">Phone Number</div>
-                                            <p className="des">+1255 - 568 - 6523 <br /> +1255 - 568 - 6523</p>
+                                            <p className="des">+254799443070 <br /> +254745711132</p>
                                         </div>
                                     </div>
                                     <div className="col-md-12 col-lg-4">
@@ -41,7 +41,7 @@ export default function ContactUs() {
                                                 </svg>
                                             </div>
                                             <div className="title">Address line</div>
-                                            <p className="des">Bowery St, New York, NY <br /> 10013,USA</p>
+                                            <p className="des">Juja, Arcade, Nairobi <br /> 232342,Juja</p>
                                         </div>
                                     </div>
                                     <div className="col-md-12 col-lg-4">
