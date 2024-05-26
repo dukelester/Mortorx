@@ -23,11 +23,11 @@ export default function Footer1() {
                                 <ul>
                                     <li>
                                         <i className="icon-Vector1" />
-                                        <p>14 New South Head Rd,Triple 3148London, UK</p>
+                                        <p>Juja, Kiambu, Kenya</p>
                                     </li>
                                     <li>
                                         <i className="icon-Group-1" />
-                                        <p>needhelp@company.com</p>
+                                        <p>help@mortorx.com</p>
                                     </li>
                                 </ul>
                             </div>
@@ -83,7 +83,7 @@ export default function Footer1() {
                     </div>
                     <div className="row footer-bottom">
                         <div className="col-12 col-md-6 col-lg-6 col-xl-4 col-xxl-4">
-                            <p className="coppy-right">Made with ❤️ by <Link href="/#">Themesflat</Link></p>
+                            <p className="coppy-right">Made with ❤️ by <Link href="/#">dukelester</Link></p>
                         </div>
                         <div className="col-12 col-md-6 col-lg-6 col-xl-4 col-xxl-4">
                             <ul className="social-icon">
